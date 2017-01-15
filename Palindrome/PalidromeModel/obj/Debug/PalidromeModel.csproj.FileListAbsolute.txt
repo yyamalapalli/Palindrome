@@ -1,0 +1,5 @@
+C:\D\Palindrome\Palindrome\PalidromeModel\bin\Debug\PalidromeModel.dll
+C:\D\Palindrome\Palindrome\PalidromeModel\bin\Debug\PalidromeModel.pdb
+C:\D\Palindrome\Palindrome\PalidromeModel\obj\Debug\PalidromeModel.dll
+C:\D\Palindrome\Palindrome\PalidromeModel\obj\Debug\PalidromeModel.pdb
+C:\D\Palindrome\Palindrome\PalidromeModel\obj\Debug\PalidromeModel.csprojResolveAssemblyReference.cache

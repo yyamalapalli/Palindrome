@@ -1,0 +1,8 @@
+C:\D\Palindrome\Palindrome\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\D\Palindrome\Palindrome\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\D\Palindrome\Palindrome\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\D\Palindrome\Palindrome\UnitTestProject1\bin\Debug\PalidromeModel.dll
+C:\D\Palindrome\Palindrome\UnitTestProject1\bin\Debug\PalidromeModel.pdb
+C:\D\Palindrome\Palindrome\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\D\Palindrome\Palindrome\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\D\Palindrome\Palindrome\UnitTestProject1\obj\Debug\TestPalindrome.csprojResolveAssemblyReference.cache
